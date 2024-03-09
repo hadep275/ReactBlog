@@ -17,7 +17,7 @@ import {
   import { toast } from "react-toastify";
   import Tags from "../components/Tags";
   import FeatureBlogs from "../components/FeatureBlogs";
-  import Trending from "../components/Trending";
+  // import Trending from "../components/Trending";
   import Search from "../components/Search";
   import { isEmpty, isNull } from "lodash";
   import { useLocation } from "react-router-dom";
